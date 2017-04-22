@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/gudnam/Developments/sample/CodeCovAndroid/sample-app/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/gudnam/.android/build-cache/8a027c2e610fa28799769ca2d56a0e2c2bae16b0/output/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 558
+                    }
+                }
+            }
+        ]
+    }
+]

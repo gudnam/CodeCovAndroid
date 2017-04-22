@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/gudnam/Developments/sample/CodeCovAndroid/sample-app/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/gudnam/.android/build-cache/8a027c2e610fa28799769ca2d56a0e2c2bae16b0/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 76,
+                        "endOffset": 354
+                    }
+                }
+            }
+        ]
+    }
+]

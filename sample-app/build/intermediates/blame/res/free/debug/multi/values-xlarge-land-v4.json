@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/gudnam/Developments/sample/CodeCovAndroid/sample-app/build/intermediates/incremental/mergeFreeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/gudnam/.android/build-cache/8a027c2e610fa28799769ca2d56a0e2c2bae16b0/output/res/values-xlarge-land/values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 63,
+                        "endOffset": 347
+                    }
+                }
+            }
+        ]
+    }
+]
